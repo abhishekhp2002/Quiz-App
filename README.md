@@ -10,7 +10,7 @@ A dynamic and interactive quiz application built with HTML, CSS, and JavaScript.
 - Allows users to restart the quiz after completion.
 
 ## Demo
-
+https://github.com/user-attachments/assets/fc952b32-6946-43ae-864d-86c447373589
 
 
 ## Technologies Used
